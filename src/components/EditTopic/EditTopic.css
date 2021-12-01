@@ -1,0 +1,24 @@
+.edit-topics {
+    display: flex;
+    flex-flow: column;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.edit-topics input {
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.edit-topics button {
+    align-self: center;
+    padding: 6px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 13px;
+    color: white;
+}

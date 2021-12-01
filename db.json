@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "image": [
+        [
+          "https://leonardo.osnova.io/eea44e32-4ee0-5c29-216a-3e355bdfc96c/-/preview/1200/-/format/webp/"
+        ]
+      ],
+      "description": "This worked very well for me for centering a Material-UI <Fab> component. As an add-on, in the translate method, the first parameter is the horizontal translation and the second is the vertical translatio",
+      "title": "kokok",
+      "price": "123",
+      "id": 17,
+      "fullName": "Tima",
+      "descriptionSec": "tema"
+    },
+    {
+      "image": [
+        "ea"
+      ],
+      "description": "title",
+      "descriptionSec": "descriptionSec",
+      "price": "ae",
+      "id": 18
+    },
+    {
+      "image": [
+        [
+          "21"
+        ]
+      ],
+      "description": "ngskjgn;askgfaFFAF",
+      "descriptionSec": "bradb",
+      "price": "21",
+      "id": 19
+    },
+    {
+      "image": [
+        "https://leonardo.osnova.io/13fa0305-27bc-9ae7-305a-33d88ec010ae/-/preview/1200/-/format/webp/"
+      ],
+      "description": "Второй месяц продвижения пришелся на декабрь. Рекламы в соцсетях становится больше (скоро Новый год), соответственно бюджеты растут. Закономерно, что цена целевых действий тоже растет. Мы предложили клиенту пробовать новые креативы и офферы. Также решили протестить трафик на сайт.",
+      "descriptionSec": "Tema",
+      "fullName": "koshoev bakai",
+      "id": 20
+    }
+  ]
+}
